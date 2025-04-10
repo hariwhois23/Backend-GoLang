@@ -1,4 +1,5 @@
-You're looking at a **Terraform configuration** that provisions a **Docker container running Nginx**. Here's a breakdown of each block:
+ **Terraform configuration** that provisions a **Docker container running Nginx**. 
+ Here's a breakdown of each block:
 
 ---
 
